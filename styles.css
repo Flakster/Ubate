@@ -1,0 +1,16 @@
+body{
+  background-color: rgb(11, 15, 11);
+  color: beige;
+}
+.logocontainer{
+  width:fit-content;
+  margin: 0 auto;
+}
+.maintitle{
+  width: 20%;
+  margin: 0 auto;
+}
+.mainparagraph{
+  width: 80%;
+  margin: 0 auto;
+}
